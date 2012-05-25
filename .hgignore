@@ -1,4 +1,5 @@
 syntax: glob
+*.pyc
 
 # ignore Rietveld checkout and symlinks in example dir
 examples/rietveld/codereview/
