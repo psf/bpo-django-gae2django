@@ -2,7 +2,7 @@
 
 # NOTE: Keep the settings.py in examples directories in sync with this one!
 
-DEBUG = True
+DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
